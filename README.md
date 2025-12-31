@@ -90,8 +90,9 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamonRosas23&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRosas23&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=3B82F6&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonRosas23&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&hide_border=true" height="160" alt="Estadísticas GitHub" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRosas23&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=3B82F6&hide_border=true" height="160" alt="Lenguajes Top" />
 </div>
 
 <div align="center">
