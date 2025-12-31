@@ -26,8 +26,17 @@ Soy **Jefe de Área de Desarrollo**, liderando equipos técnicos para crear solu
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas de Ramón](https://github-readme-stats.vercel.app/api?username=RamonRosas23&show_icons=true&theme=dracula&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRosas23&layout=compact&theme=dracula)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RamonRosas23&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estadísticas de Ramón" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRosas23&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+</table>
 
 ---
 
