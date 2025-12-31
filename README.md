@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Ram%C3%B3n+Rosas;Arquitectura+de+Software;Liderazgo+T%C3%A9cnico;Seguridad+en+Servidores" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Ram%C3%B3n+Rosas;Co-Lead+de+Desarrollo;Business+Intelligence+%26+Data;Server+Security+Specialist" alt="Typing SVG" />
   
   <p align="center">
      <img src="https://img.shields.io/badge/Ubicación-Culiacán%2C_Sinaloa-0f172a?style=flat-square&logo=google-maps&logoColor=red" />
-     <img src="https://komarev.com/ghpvc/?username=RamonRosas23&color=0f172a&style=flat-square&label=VISTAS" alt="Vistas del perfil" />
+     <img src="https://komarev.com/ghpvc/?username=RamonRosas23&color=0f172a&style=flat-square&label=IMPACTO" alt="Vistas del perfil" />
   </p>
 </div>
 
@@ -12,23 +12,23 @@
 </div>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/PERFIL-Profesional-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/PERFIL-Executive_Summary-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
 </h3>
 
 <div align="center">
-<code>
-<img src="https://img.shields.io/badge/>_-Terminal-000?style=flat&logo=gnubash&logoColor=white" height="20">
 <br>
-user@ramon:~$ cat sobre_mi.txt <br>
-> Jefe de Área de Desarrollo especializado en arquitecturas robustas.<br>
-> Lidero equipos técnicos y aseguro infraestructuras críticas.<br>
-> Enfoque: Performance, Escalabilidad y Seguridad (Hardening).
+<img src="https://img.shields.io/badge/>_-System_Status-000?style=flat&logo=linux&logoColor=white" height="20">
+<br>
+> Current Role: Co-Jefe del Área de Desarrollo.<br>
+> Focus: Alinear tecnología, datos y seguridad con el negocio.<br>
+> Mission: Crear Dashboards estratégicos, blindar servidores y <br>
+> garantizar arquitecturas de software escalables y limpias.
 </code>
 </div>
 <br>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/TECH-Arsenale-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/TECH-Core_Stack_%26_Analytics-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </h3>
 
 <div align="center">
@@ -36,22 +36,22 @@ user@ramon:~$ cat sobre_mi.txt <br>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php,laravel,python" perline="3" />
-      <br><strong>Backend</strong>
+      <br><strong>Backend Logic</strong>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue,react,nextjs" perline="3" />
-      <br><strong>Frontend</strong>
+      <br><strong>Frontend & UI</strong>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql,postgres,linux" perline="3" />
-      <br><strong>Infra</strong>
+      <br><strong>Data & Infra</strong>
     </td>
   </tr>
 </table>
 </div>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Core_Skills-0f172a?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/VALUE-Valor_Agregado-0f172a?style=for-the-badge&logo=target&logoColor=white" />
 </h3>
 
 <div align="center">
@@ -59,23 +59,26 @@ user@ramon:~$ cat sobre_mi.txt <br>
   <tr>
     <td valign="top" width="33%">
       <div align="center">
-        <img src="https://img.shields.io/badge/Liderazgo-Team_Management-2ea44f?style=flat-square&logo=microsoft-teams&logoColor=white" />
+        <img src="https://img.shields.io/badge/Strategy-Business_Analysis-702570?style=flat-square&logo=google-charts&logoColor=white" />
         <br><br>
-        Supervisión técnica, Code Reviews y formación de talento junior/mid.
+        <strong>Análisis & Dashboards</strong><br>
+        Interpretación de procesos de negocio para plasmarlos en herramientas de BI y paneles de control que facilitan la toma de decisiones.
       </div>
     </td>
     <td valign="top" width="33%">
       <div align="center">
-        <img src="https://img.shields.io/badge/Seguridad-Server_Hardening-critical?style=flat-square&logo=security-scorecard&logoColor=white" />
+        <img src="https://img.shields.io/badge/Management-Dev_Architecture-2ea44f?style=flat-square&logo=github-actions&logoColor=white" />
         <br><br>
-        Protección de servidores Linux, Firewalls y auditoría de vulnerabilidades.
+        <strong>Gestión & Calidad</strong><br>
+        Co-liderazgo del ciclo de vida del software (SDLC). Definición de arquitecturas, revisión de código y cumplimiento de entregables.
       </div>
     </td>
     <td valign="top" width="33%">
       <div align="center">
-        <img src="https://img.shields.io/badge/Performance-High_Scale-blue?style=flat-square&logo=speedtest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-Infrastructure-critical?style=flat-square&logo=security-scorecard&logoColor=white" />
         <br><br>
-        Optimización de bases de datos y reducción de tiempos de carga.
+        <strong>Seguridad (Hardening)</strong><br>
+        Protección de infraestructura crítica, configuración de servidores Linux seguros y gestión de entornos de producción.
       </div>
     </td>
   </tr>
@@ -83,7 +86,7 @@ user@ramon:~$ cat sobre_mi.txt <br>
 </div>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/METRICS-GitHub_Activity-0f172a?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/METRICS-Performance-0f172a?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </h3>
 
 <div align="center">
@@ -92,28 +95,11 @@ user@ramon:~$ cat sobre_mi.txt <br>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br><br>
-  
+  <br>
   <a href="mailto:contacto.arctric@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Business_Inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ram%C3%B3n-alberto-rosas-le%C3%B3n-57a017279/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-<!--
-**RamonRosas23/RamonRosas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
